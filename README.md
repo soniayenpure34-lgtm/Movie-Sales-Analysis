@@ -100,12 +100,6 @@ Movie-Sales-Analysis/
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add screenshots here after uploading images)
-
----
-
 ## 🚀 Future Scope
 
 * Predict movie success using ML models
@@ -127,5 +121,3 @@ Movie-Sales-Analysis/
 
 **Sonia Yenpure**
 
-GitHub: https://github.com/soniayenpure34-lgtm
-LinkedIn: (Add your link)
